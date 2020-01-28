@@ -12,7 +12,7 @@ export class InformationCardsComponent implements OnInit {
   ngOnInit() {
     this.displayList = [
       {
-        image : "https://thepromox.com/wp-content/uploads/2018/04/faasos-50-off-coupon.png",
+        image : "https://omgcitydiscount.com/blog-img/food-discount-deals-subscription-our-history-who-we-are-15325971308210.jpeg",
         id : 3
       },{
         image :  "https://omgcitydiscount.com/blog-img/food-discount-deals-subscription-our-history-who-we-are-15325971308210.jpeg",

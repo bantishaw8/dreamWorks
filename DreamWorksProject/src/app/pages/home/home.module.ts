@@ -7,7 +7,7 @@ import { RouterModule } from '@angular/router';
 import { HomePage } from './home.page';
 import { InformationCardsComponent } from './information-cards/information-cards.component';
 import { TrendingProductsComponent } from './trending-products/trending-products.component';
-
+import { CardChoicesSelectionComponent } from './card-choices-selection/card-choices-selection.component';
 @NgModule({
   imports: [
     CommonModule,
@@ -23,7 +23,8 @@ import { TrendingProductsComponent } from './trending-products/trending-products
   declarations: [
     HomePage,
     InformationCardsComponent,
-    TrendingProductsComponent
+    TrendingProductsComponent,
+    CardChoicesSelectionComponent
   ]
 })
 export class HomePageModule {}
